@@ -109,7 +109,7 @@ except FileNotFoundError:
     st.stop()
 
 TARGET = info["target_column"]
-FEATURES = info["feature_cols"]
+FEATURES = info["feature_columns"]
 
 # ---------- sidebar ----------
 with st.sidebar:
