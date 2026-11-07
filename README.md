@@ -1,6 +1,6 @@
 # ML Assignment 2 - MBTI Personality Type Classification
 
-**Live app:** TBD
+**Live app:** https://mbti-personality-classification.streamlit.app/
 **Author:** BARU GANESH ANJANI PRAMOD (2026AJ05610)
 
 ## a. Problem statement
