@@ -108,7 +108,7 @@ except FileNotFoundError:
              "model_info.json is committed to the repository.")
     st.stop()
 
-TARGET = info["target_col"]
+TARGET = info["target_column"]
 FEATURES = info["feature_cols"]
 
 # ---------- sidebar ----------
